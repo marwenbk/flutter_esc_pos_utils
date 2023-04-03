@@ -264,6 +264,31 @@
       "vendor": "HPRT",
       "model": "TP806L",
       "description": ""
+    },
+    "TM-T20II": {
+      "codePages": {
+        "0": "CP437",
+        "1": "CP858",
+        "10": "CP1252",
+        "16": "CP1252",
+        "17": "CP866",
+        "18": "CP852",
+        "19": "CP858",
+        "22": "CP864",
+        "23": "CP737",
+        "24": "CP851",
+        "25": "CP857",
+        "26": "CP858",
+        "27": "CP860",
+        "28": "CP861",
+        "29": "CP863",
+        "30": "CP865",
+        "31": "CP869",
+        "255": "utf8"
+      },
+      "vendor": "Epson",
+      "model": "TM-T20II",
+      "description": "Epson TM-T20II ESC/POS Profile"
     }
   }
 }
